@@ -1,1 +1,2 @@
-# a simple Calculator
+# A simple Calculator 🧮
+# ➕➖➗✖️Operators
